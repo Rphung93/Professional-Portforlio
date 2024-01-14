@@ -1,0 +1,36 @@
+.navbar ul li {
+    display: inline;
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar h1 {
+    display: inline;
+}
+
+.navbar ul {
+    display: inline;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(107, 107, 169);
+    padding: 0 8px;
+}
+
+body {
+    margin: 0;
+}
+
+.content-container {
+    padding: 8px;
+}
+
+.work-image {
+    width: 50%;
+}
+
+.avatar-image {
+    width: 10%;
+}
